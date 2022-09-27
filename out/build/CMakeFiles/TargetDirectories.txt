@@ -1,3 +1,0 @@
-/home/tcimic/Projects/Navier_Stokes_Para/out/build/CMakeFiles/NSP.dir
-/home/tcimic/Projects/Navier_Stokes_Para/out/build/CMakeFiles/edit_cache.dir
-/home/tcimic/Projects/Navier_Stokes_Para/out/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/NSP.dir/main.cpp.o -o NSP 
