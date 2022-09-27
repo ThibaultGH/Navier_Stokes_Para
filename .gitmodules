@@ -1,0 +1,3 @@
+[submodule "external/ScaLAPACK"]
+	path = external/ScaLAPACK
+	url = git@github.com:Reference-ScaLAPACK/scalapack.git
