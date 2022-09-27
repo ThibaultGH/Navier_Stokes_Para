@@ -11,7 +11,7 @@ target_include_directories(${PROJECT_NAME}
 )
 
 target_link_directories(${PROJECT_NAME}
-  PRIVATE external/ScaLAPACK/SRC
+  PRIVATE external/ScaLAPACK/lib
 )
 
 target_link_libraries(${PROJECT_NAME} scalapack)
