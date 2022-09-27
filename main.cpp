@@ -2,6 +2,7 @@
 #include <time.h>
 #include <math.h>
 #include <string>
+#include <scalapack.h>
 
 using namespace std;
 
